@@ -16,4 +16,4 @@ Gallery is an app that shows the photos and videos stored on your device.
 
 **Children.** The app does not knowingly collect any data from anyone.
 
-**Contact.** For questions, email: fenilsangani2119@gmail.com
+**Contact.** For questions, email: meetrupareliya919@gmail.com
